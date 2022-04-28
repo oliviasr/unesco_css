@@ -1,0 +1,21 @@
+/* main {
+  margin: 20px;
+} */
+
+img {
+  max-width: 100%;
+}
+
+#menu_sortering {
+  text-align: center;
+  background: #beddb0;
+  color: black;
+}
+
+.menu_verdensmål ul {
+  list-style: none;
+}
+
+.menu_område ul {
+  list-style: none;
+}
